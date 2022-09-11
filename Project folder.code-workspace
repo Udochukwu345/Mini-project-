@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Users/user/Desktop/Project folder"
+		},
+		{
+			"path": "../Users/user/Desktop/QR code"
+		},
+		{
+			"path": "../Users/user/Desktop/Javascript folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QR code"
+	}
+}
